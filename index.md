@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Hey there, I am ShiP & Welcome to my Blog
 
-I'm glad you are here. I plan to talk about ...
+It's great to see you here. This blog includes a description of my works and other interests.
+Feel free to contribute.
