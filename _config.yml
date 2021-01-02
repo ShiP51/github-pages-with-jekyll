@@ -1,18 +1,18 @@
 theme: minima
-title: ShiP's Blog
-author: ShiP
-email: ship@protonmail.com
+title: Shivam's Blog
+author: ship51
+email: ship51@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Lorem ipsum
+
   
   NICE TO SEE YOU !!!
   
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  # Write an awesome description for your new site here. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
 
 # social links
-twitter_username: shiip # DO NOT include the @ character, or else the build will fail!
-github_username:  ShiP51 # DO NOT include the @ character, or else the build will fail!
+twitter_username: abcd # DO NOT include the @ character, or else the build will fail!
+github_username:  ship51 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
